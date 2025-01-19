@@ -4,6 +4,6 @@
         "1t": {"type": "trial", "expiry": "2025-01-01T23:59:59", "used": false},
         "1h": {"type": "trial", "expiry": "2025-01-01T12:00:00", "used": false},
         "15n": {"type": "trial", "expiry": "2025-01-15T23:59:59", "used": false},
-        "30p": {"type": "trial", "expiry": "2025-01-20T03:00:00", "used": false}
+        "30p": {"type": "trial", "expiry": "2025-01-20T02:00:00", "used": false}
     }
 }
