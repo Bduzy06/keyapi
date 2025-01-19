@@ -4,6 +4,6 @@
         "ByBDuy": {"type": "trial", "expiry": "2024-01-01T23:59:59", "used": false},
         "Key1Hour": {"type": "trial", "expiry": "2024-01-01T12:00:00", "used": false},
         "Key15Days": {"type": "trial", "expiry": "2024-01-15T23:59:59", "used": false},
-        "Key30Minutes": {"type": "trial", "expiry": "2024-01-01T11:00:00", "used": false}
+        "Key30Minutes": {"type": "trial", "expiry": "2024-01-20T11:00:00", "used": false}
     }
 }
